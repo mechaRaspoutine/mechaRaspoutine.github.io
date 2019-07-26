@@ -1,1 +1,7 @@
 theme: jekyll-theme-merlot
+title: My Jekyll Blog
+email: example@example.com
+description: My latest stories and photos
+url: https://mecharaspoutine.github.io
+twitter_username: mecharaspoutine
+github_username: mecharaspoutine
