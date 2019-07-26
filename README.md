@@ -1,5 +1,3 @@
-## Blog: https://mecharaspoutine.github.io/
-
 
 ## Welcome to GitHub Pages
 
